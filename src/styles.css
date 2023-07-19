@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input {
+  margin-bottom: 5px;
+}
+
+.postContainer {
+  background-color: bisque;
+  border: 1px solid black;
+  margin: 4px;
+}
